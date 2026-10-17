@@ -1,8 +1,13 @@
+<!-- Mr. Rao AI edition -->
+> **Mr. Rao AI edition.** Shared by [Mr. Rao AI](https://mrraoai.com). Step by step setup guide: [How I used Grok Bot to triage 82 launch sites](https://mrraoai.com/resources/grok-bot-82-launch-sites-triage-first-100-users/)
+>
+> Original project by mmccaff (https://github.com/mmccaff/PlacesToPostYourStartup), CC0-1.0 license.
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Places To Post Your Startup
 
-##### The [mmccaff/PlacesToPostYourStartup repository on GitHub](https://github.com/mmccaff/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
+##### The [mmccaff/PlacesToPostYourStartup repository on GitHub](https://github.com/AgentMrX/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
 
 Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109).
 
@@ -128,3 +133,16 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 To the extent possible under law, [Matt McCaffrey](https://www.mattmccaffrey.com/) has waived all copyright and related or neighboring rights to this work.
 
 [Back to Top](#places-to-post-your-startup)
+
+---
+
+## Adapted by Mr. Rao AI
+
+This repository is a copy of the open-source project above, maintained by [Mr. Rao AI](https://mrraoai.com) for readers of mrraoai.com.
+
+What is different in this copy:
+
+- Added the Mr. Rao AI header and this section, and pointed repo, install and community links to Mr. Rao AI.
+- The original LICENSE file is kept exactly as published.
+
+Setup guide, FAQ and updates: [How I used Grok Bot to triage 82 launch sites](https://mrraoai.com/resources/grok-bot-82-launch-sites-triage-first-100-users/). More free resources: [mrraoai.com/resources](https://mrraoai.com/resources/).
